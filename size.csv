@@ -1,4 +1,4 @@
- ;sampling moment;location;average colony size
+;sampling moment;location;average colony size (cm2)
 1;jun/16;inside the marina;2,8626
 2;jun/16;inside the marina;18,2686
 3;jun/16;inside the marina;18,969
@@ -64,38 +64,38 @@
 63;jan/17;breakwater;3,4285
 64;jan/17;breakwater;2,4112
 65;jan/17;breakwater;0,978
-66;fev/19;inside the marina;2,497
-67;fev/19;inside the marina;3,5632
-68;fev/19;inside the marina;4,5838
-69;fev/19;inside the marina;4,871
-70;fev/19;inside the marina;2,1122
-71;fev/19;inside the marina;9,5589
-72;fev/19;inside the marina;3,8491
-73;fev/19;inside the marina;2,5194
-74;fev/19;inside the marina;5,7934
-75;fev/19;inside the marina;5,1203
-76;fev/19;inside the marina;11,2417
-77;fev/19;inside the marina;6,9046
-78;fev/19;inside the marina;6,652
-79;fev/19;inside the marina;2,9802
-80;fev/19;inside the marina;2,2824
-81;fev/19;inside the marina;1,9126
-82;fev/19;inside the marina;1,5133
-83;fev/19;breakwater;4,839
-84;fev/19;breakwater;4,2734
-85;fev/19;breakwater;3,1344
-86;fev/19;breakwater;9,5865
-87;fev/19;breakwater;3,3425
-88;fev/19;breakwater;5,553666667
-89;fev/19;breakwater;4,5878
-90;fev/19;breakwater;4,0593
-91;fev/19;breakwater;2,8354
-92;fev/19;breakwater;7,1307
-93;fev/19;breakwater;4,8185
-94;fev/19;breakwater;4,547
-95;fev/19;breakwater;1,052
-96;fev/19;breakwater;2,879
-97;fev/19;breakwater;3,910666667
-98;fev/19;breakwater;3,829714286
-99;fev/19;breakwater;2,564333333
-100;fev/19;breakwater;6,0388
+66;feb/19;inside the marina;2,497
+67;feb/19;inside the marina;3,5632
+68;feb/19;inside the marina;4,5838
+69;feb/19;inside the marina;4,871
+70;feb/19;inside the marina;2,1122
+71;feb/19;inside the marina;9,5589
+72;feb/19;inside the marina;3,8491
+73;feb/19;inside the marina;2,5194
+74;feb/19;inside the marina;5,7934
+75;feb/19;inside the marina;5,1203
+76;feb/19;inside the marina;11,2417
+77;feb/19;inside the marina;6,9046
+78;feb/19;inside the marina;6,652
+79;feb/19;inside the marina;2,9802
+80;feb/19;inside the marina;2,2824
+81;feb/19;inside the marina;1,9126
+82;feb/19;inside the marina;1,5133
+83;feb/19;breakwater;4,839
+84;feb/19;breakwater;4,2734
+85;feb/19;breakwater;3,1344
+86;feb/19;breakwater;9,5865
+87;feb/19;breakwater;3,3425
+88;feb/19;breakwater;5,553666667
+89;feb/19;breakwater;4,5878
+90;feb/19;breakwater;4,0593
+91;feb/19;breakwater;2,8354
+92;feb/19;breakwater;7,1307
+93;feb/19;breakwater;4,8185
+94;feb/19;breakwater;4,547
+95;feb/19;breakwater;1,052
+96;feb/19;breakwater;2,879
+97;feb/19;breakwater;3,910666667
+98;feb/19;breakwater;3,829714286
+99;feb/19;breakwater;2,564333333
+100;feb/19;breakwater;6,0388
